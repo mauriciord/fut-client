@@ -1,0 +1,1 @@
+webpackJsonp([1,2],{183:function(e,t,n){"use strict";function u(e){return e&&e.__esModule?e:{default:e}}var l=n(33),r=u(l),c=n(32),o=u(c),a=function(){return r.default.createElement("div",null,"FIFA FUT client")};o.default.render(r.default.createElement(a,null),document.querySelector("#root"))}},[183]);
