@@ -3,9 +3,11 @@ const path = require('path');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 
 const VENDOR_LIBS = [
-  'react', 'lodash', 'redux', 'react-redux', 'react-dom', 'faker',
-  'react-input-range', 'redux-form', 'redux-thunk'
+  'react', 'react-dom'
 ];
+
+// 'lodash', 'redux', 'react-redux', 'faker',
+//   'react-input-range', 'redux-form', 'redux-thunk'
 
 module.exports = {
   entry: {
